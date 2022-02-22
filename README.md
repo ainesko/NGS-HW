@@ -44,6 +44,9 @@ FastQC
 
 ### 100x.2
 
+![image](https://user-images.githubusercontent.com/93263861/155122930-fa8c9bb3-c966-4595-995d-668f64410f7a.png)
+
+
 
 
 # Задание 2
