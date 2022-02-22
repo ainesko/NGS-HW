@@ -1,8 +1,10 @@
 # NGS-HW1
 
+# Задание 1
+
 ## Проведём анализ для исходных последовательностей
 
-# 100x.1
+### 100x.1
 
 ***GC-content***
 
@@ -17,7 +19,7 @@ FastQC
 
 
 
-# 100x.2
+### 100x.2
 
 ***GC-content***
 
@@ -30,3 +32,23 @@ FastQC
 ![image](https://user-images.githubusercontent.com/93263861/154989263-2c1e0b60-2e55-4f7d-9c61-c93d2967f2b7.png)
 
 В обоих случаях самодельный график сильно совпадает с результатом FastQC.
+
+# Задание 2
+
+### 100x.1
+
+FastQC
+
+![image](https://user-images.githubusercontent.com/93263861/155122094-5c20dbdf-6e3c-4d8b-865d-fa0f2198a59e.png)
+
+Результат запуска программы
+
+### 100x.2
+
+FastQC
+
+![image](https://user-images.githubusercontent.com/93263861/155121762-8a846833-9b32-45c3-b983-1d98336a44be.png)
+
+Результат запуска программы
+
+
