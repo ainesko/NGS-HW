@@ -39,13 +39,12 @@ FastQC
 
 ### 100x.1
 
-![image](https://user-images.githubusercontent.com/93263861/155122567-743dce3e-847e-49f0-a3dc-2ea5f668d0fc.png)
+![image](https://user-images.githubusercontent.com/93263861/155130893-e7cb04bf-4411-4ce9-ba74-f98d392e525f.png)
 
 
 ### 100x.2
 
-![image](https://user-images.githubusercontent.com/93263861/155122930-fa8c9bb3-c966-4595-995d-668f64410f7a.png)
-
+![image](https://user-images.githubusercontent.com/93263861/155130835-70eb7f4d-4027-48f1-bd7b-081e77c6fda0.png)
 
 
 
