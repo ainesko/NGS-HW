@@ -1,5 +1,8 @@
 # NGS-HW1
 
+Google Colab: https://colab.research.google.com/drive/15eYjtbpV0RkbrPzaxSwxTu2jDqAKL5sh?usp=sharing
+
+
 # Задание 1
 
 ## Проведём анализ для исходных последовательностей
